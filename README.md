@@ -12,3 +12,7 @@ A functional Python 3.7 (https://www.python.org/) is required to run the codes. 
 - scipy
 - pandas
 - scikit-learn
+- matplotlib
+- seaborn
+- random 
+ 
